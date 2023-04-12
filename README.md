@@ -1,7 +1,9 @@
-### Hi there 👋
-##My name is Ilya Makhnach 
-##Here are examples of my work
-###[2048](https://2048byqwertytr1.netlify.app/)  simple game with complex logic  
+### Hi there 👋 
+
+# My name is Ilya Makhnach
+
+# Here are examples of my work
+## [2048](https://2048byqwertytr1.netlify.app/)  simple game with complex logic  
 
 <!--
 **qwertytr1/qwertytr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
