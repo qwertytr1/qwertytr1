@@ -5,7 +5,8 @@
 #### Here are examples of my work
 #### 1. [2048](https://2048byqwertytr1.netlify.app/)  simple game with complex logic  
 #### You can see code in [code](https://github.com/qwertytr1/2048)
-
+#### 2. [Gem-Puzzle](https://qwertytr1-gempuzzle.netlify.app/)  
+#### You can see code in [code](https://github.com/qwertytr1/Gem-Puzzle/tree/Gem-Puzzle)
 <!--
 **qwertytr1/qwertytr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
