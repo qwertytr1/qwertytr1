@@ -3,11 +3,14 @@
 ## My name is Ilya Makhnach
 
 #### Here are examples of my work
-#### 1. [2048](https://2048byqwertytr1.netlify.app/)  simple game with complex logic  
+#### 1. [2048](qwertytr1-2048.netlify.app)  simple game with complex logic
+#### Use: HTML,CSS,JS
 #### You can see code in [code](https://github.com/qwertytr1/2048)
 #### 2. [Gem-Puzzle](https://qwertytr1-gempuzzle.netlify.app/)  
+### Use: HTML,CSS,JS
 #### You can see code in [code](https://github.com/qwertytr1/Gem-Puzzle/tree/Gem-Puzzle)
 #### 3. [Momentum](https://qwertytr1momentum.netlify.app/)  
+#### Use: HTML,CSS,JS
 #### You can see code in [code](https://github.com/qwertytr1/momentum)
 
 <!--
