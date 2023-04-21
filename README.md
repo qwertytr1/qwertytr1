@@ -7,7 +7,7 @@
 #### Use: HTML,CSS,JS
 #### You can see code in [code](https://github.com/qwertytr1/2048)
 #### 2. [Gem-Puzzle](https://qwertytr1-gempuzzle.netlify.app/)  
-### Use: HTML,CSS,JS
+#### Use: HTML,CSS,JS
 #### You can see code in [code](https://github.com/qwertytr1/Gem-Puzzle/tree/Gem-Puzzle)
 #### 3. [Momentum](https://qwertytr1momentum.netlify.app/)  
 #### Use: HTML,CSS,JS
