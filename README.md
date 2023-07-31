@@ -3,7 +3,7 @@
 ## My name is Ilya Makhnach
 
 #### Here are examples of my work
-#### 1. [2048](qwertytr12048.netlify.app)  simple game with complex logic
+#### 1. [2048](https://qwertytr12048.netlify.app/)  simple game with complex logic
 #### Use: HTML,CSS,JS
 #### You can see code in [code](https://github.com/qwertytr1/2048)
 #### 2. [Gem-Puzzle](https://qwertytr1-gempuzzle.netlify.app/)  
