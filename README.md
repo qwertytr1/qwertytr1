@@ -12,8 +12,8 @@
 #### 3. [Momentum](https://qwertytr1momentum.netlify.app/)  
 #### Use: HTML,CSS,JS
 #### You can see code in [code](https://github.com/qwertytr1/momentum)
-#### 4. CoinCap simple react app with information about cripto coins  
-#### You can see code in [code](https://github.com/qwertytr1/Gem-Puzzle/tree/Gem-Puzzle](https://github.com/qwertytr1/CoinCap-test-task/tree/features/coins-6-AddContext)
+#### 4. CoinCap simple react app with information about crypto coins  
+#### You can see code in [code](https://github.com/qwertytr1/CoinCap-test-task/tree/features/coins-6-AddContext)
 #### [CoinCap](https://qwertytr1.github.io/CoinCap-test-task/)
 
 <!--
